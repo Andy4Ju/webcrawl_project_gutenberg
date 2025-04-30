@@ -1,20 +1,15 @@
 # Project Gutenberg
-爬取中文書籍，共 xxx 本。
+* 爬取中文書籍，共 355 本(不含重複)。  
+Crawl Chinese books, a total of 355 books (excluding duplicates).
 
-## 安裝套件
+## 安裝套件 Installed Packages
 - requests (2.32.3)
 - beautifulsoup4 (4.12.3)
-- selenium (版本號)
-...
-(版本號可用 pip list，或是 conda list 來檢視)
-...
+- selenium ()
 
-## 成果
-![](執行過程的擷圖或說明圖片)
-...
-[影片名稱或其它標題](你的影片連結)
-...
 
-## 其它你想要補充標題和內容
-...
-...
+## 成果 Result
+Video TBD
+
+## 其它 Others
+TBD
